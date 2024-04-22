@@ -1,4 +1,6 @@
-instance
+instance/
 __pycache__/
 
-/.gitignore
+.instance
+.__pycache__
+..gitignore
